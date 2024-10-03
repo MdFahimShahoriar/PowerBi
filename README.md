@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MdFahimShahoriar/PowerBi.git
-   cd your-first-10-minutes-of-power-bi
+   cd PowerBi
 ## Install Power BI Desktop
 Download and install Power BI Desktop from the official website.
 
