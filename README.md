@@ -19,7 +19,7 @@ This project provides a step-by-step guide to help you get started with Power BI
 - Create interactive visualizations
 - Share reports and dashboards
 - User-friendly interface
-
+![Alt text](https://github.com/MdFahimShahoriar/PowerBi/blob/main/practice1(powerbi_ss).png)
 ## Installation
 To get started with this project, follow these steps:
 
